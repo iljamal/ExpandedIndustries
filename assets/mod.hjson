@@ -5,5 +5,5 @@ main: "ExpandedIndustries.ExpandedIndustries"
 description: "Some content for people to enjoy :>
 -Current version : 1.7 [EoL]"
 version: "1.7 [EoL]"
-minGameVersion: 145
+minGameVersion: 154
 java: true
