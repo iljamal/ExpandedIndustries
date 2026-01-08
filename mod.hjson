@@ -1,9 +1,7 @@
-displayName: "[orange]Expanded [lightgray]Industries v154"
-name: "EI"
+name: Expanded Industries
+displayName: Expanded Industries
 author: "WMF Industries"
-main: "ExpandedIndustriesv154.ExpandedIndustriesv154"
-description: "FSome content for people to enjoy :>
--Current version : 1.7.2 [EoL]"
-version: "1.7.2 [EoL]"
+version: 1.0
 minGameVersion: 154
-java: true
+description: Expanded industrial blocks and chains.
+
